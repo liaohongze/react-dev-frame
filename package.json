@@ -1,11 +1,11 @@
 {
   "name": "demo",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "demo",
   "main": "index.js",
   "license": "MIT",
   "keywords": [],
-  "author": "czb_80@163.com",
+  "author": "liaohongze@163.com, czb_80@163.com",
   "scripts": {
     "start": "node server",
     "build": "rimraf ./dist && set NODE_ENV=production&& webpack --progress --hide-modules --profile --colors -p",

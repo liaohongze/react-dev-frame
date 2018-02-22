@@ -22,8 +22,6 @@ module.exports = {
       'react-redux',
       'react-router-redux',
       'react-transition-group',
-      'react-fontawesome',
-      'react-bootstrap',
       'redux',
       'redux-thunk',
       'isomorphic-fetch'
